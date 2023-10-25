@@ -15,5 +15,5 @@ ipyfilechooser
 jupyterlab
 jupyter-dash
 pytest
-dtale==2.2.0
+dtale==3.7.0
 xlsxwriter
